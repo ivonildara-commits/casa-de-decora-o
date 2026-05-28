@@ -1,0 +1,6 @@
+{
+  "name": "Loja de Decorações",
+  "description": "Uma bela e elegante landing page interativa para uma loja de decorações, com catálogo de produtos, simulador de paleta de cores e ambientes, e calculadora de orçamento de design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
